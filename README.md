@@ -11,9 +11,9 @@
 <br>
 
 <p align="center">
-  <img alt="Home screen" src=".github/home.png" width="100%">
-  <img alt="Drawer" src=".github/drawer.png" width="100%">
-  <img alt="Search screen" src=".github/search.png" width="100%">
+  <img alt="Home screen" src=".github/home.jpg" width="100%">
+  <img alt="Drawer" src=".github/drawer.jpg" width="100%">
+  <img alt="Search screen" src=".github/search.jpg" width="100%">
 </p>
 
 
